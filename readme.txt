@@ -1,34 +1,21 @@
------------------------
-# README
------------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+# Hi 👋, I'm [Your Name]
+A [brief description about you].
 
+- 🌱 I’m currently learning [topics you're learning].
+- 👨‍💻 All of my projects are available at [GitHub Link].
+- 📫 How to reach me: [Your Email].
+- ⚡ Fun fact: [A fun fact about you].
 
-Template Info:
------------------------
-Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://yourportfolio.site)
 
+## Languages and Tools:
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+... (add more as needed)
 
-Changelog:
------------------------
-Version 1.0 14-05-2018
-- initial release 
-
-
-Credits:
------------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-- Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
-
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
+## Pinned Repositories
+- [**Your Project Name**](GitHub Repository URL): Description of the project.
+- [**Another Project**](GitHub Repository URL): Description of another project.
