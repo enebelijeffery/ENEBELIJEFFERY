@@ -25,7 +25,7 @@ A passionate web developer and web3 tech enthusiast  💻
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
 - [Twitter](https://twitter.com/jayjeffery13)
-- [Portfolio](https://your-portfolio-link.com)
+- [Portfolio](https://enebelijeffery2.netlify.app)
 
 ---
 
